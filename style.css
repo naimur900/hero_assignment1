@@ -29,10 +29,11 @@ h1{
 }
 .button{
     padding: 11px 25px;
-    background-color: orange;
+    background-image: linear-gradient(rgb(233, 182, 88), tomato);
+    text-decoration: none;
+    color: black;
     text-decoration: none;
     font-weight: bold;
-    color: rgb(0, 0, 0);
     border-radius: 6px;
 }
 #stay-focused img{
@@ -110,13 +111,6 @@ h2{
     background-repeat: no-repeat, no-repeat;
     background-size: 15%, 15%;
     background-position: 4% 0%, 95% 100%;
-}
-#app a{
-    padding: 10px 25px;
-    background-image: linear-gradient(rgb(230, 46, 46), tomato);
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    border-radius: 6px;
 }
 #app-heading{
     text-align: center;
