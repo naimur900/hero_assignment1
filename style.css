@@ -1,0 +1,145 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
+}
+.half-width{
+    width: 50%;
+    margin: 2% 10%;
+    padding: 0%;
+
+}
+.half-width img{
+    width: 60%;
+    position: relative;
+  
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 6%;
+}
+#stay-focused{
+    margin-top: 6%
+}
+h1{
+    font-size: 70px;
+    padding: 0%;
+    margin: 0%;
+    opacity: 85%;
+    
+}
+.button{
+    padding: 11px 25px;
+    background-color: orange;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    border-radius: 6px;
+}
+#stay-focused img{
+    width: 80%;
+    border-radius: 25px;
+}
+#mission-intro{
+    border-left: 5px solid rgb(182, 111, 111);
+    padding-left: 3%;
+}
+.text-color{
+    color: orange;
+}
+h2{
+    font-size: 40px;
+    opacity: 85%;
+    font-weight:bolder;
+}
+#my-mission-heading{
+    text-align: center;
+}
+.one-third{
+    width: 33.33%;
+    padding: 2%;
+}
+#one-third-1{
+    margin-left: 8%;
+    margin-right: 2%;
+    background-color: RGBA(178,234,242,1);
+    border-radius: 25px;
+}
+#one-third-2{
+    margin-right: 2%;
+    background-color: RGBA(249,227,224,1);
+    border-radius: 25px;
+
+}
+#one-third-3{
+    background-color: RGBA(255,247,176,1);
+    margin-right: 8%;
+    border-radius: 25px;
+
+}
+#mission{
+    margin-bottom: 9%;
+}
+#mission img{
+    width: 130px;
+}
+#develop_without_limits img{
+    width: 80%;
+}
+.one-third-img{
+    width: 33.33%;
+    margin-left: 8%;
+    margin-right: 2%;
+}
+.two-third-text{
+    width: 66.66%;
+    margin-right: 8%;
+
+}
+.one-third-img-2{
+    width: 33.33%;
+    margin-right: 8%;
+}    
+.two-third-text-2{
+    width: 66.66%;
+    margin-left: 8%;
+    margin-right: 2%;
+}
+#develop_without_limits{
+    margin-bottom: 9%;
+    background-image: url('images/shapes/shape-1.png'), url('images/shapes/shape-1.png');
+    background-repeat: no-repeat, no-repeat;
+    background-size: 15%, 15%;
+    background-position: 4% 0%, 95% 100%;
+}
+#app a{
+    padding: 10px 25px;
+    background-image: linear-gradient(rgb(230, 46, 46), tomato);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 6px;
+}
+#app-heading{
+    text-align: center;
+}
+.app-shape{
+    background-image: url(images/shapes/shape-3.png), url(images/shapes/shape-3.png), url(images/shapes/shape-3.png);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 8%, 5%, 5%;
+    background-position: 10% 5%, 25% 70%, 10% 90%;
+
+}
+footer{
+    padding: 5px;
+    background-color: rgb(27, 27, 51);
+    text-align: center;
+    color: white;
+}
+.icon{
+    position: relative;
+    top: 5px;
+    left: 3px ;
+}
+footer a{
+    color: orange;
+    text-decoration: none;
+}
