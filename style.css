@@ -116,7 +116,7 @@ h2{
     text-align: center;
 }
 .app-shape{
-    background-image: url(images/shapes/shape-3.png), url(images/shapes/shape-3.png), url(images/shapes/shape-3.png);
+    background-image: url('images/shapes/shape-3.png'), url('images/shapes/shape-3.png'), url('images/shapes/shape-3.png');
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-size: 8%, 5%, 5%;
     background-position: 10% 5%, 25% 70%, 10% 90%;
@@ -136,4 +136,7 @@ footer{
 footer a{
     color: orange;
     text-decoration: none;
+}
+.button:hover{
+    color: white;
 }
